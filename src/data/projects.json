@@ -19,7 +19,7 @@
     "title": "",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "tailwind"],
+    "skills": ["React", "css"],
     "demo": "https://harika-para2004.github.io/CodSoft_task3/",
     "source": "https://github.com/Harika-para2004/CodSoft_task3/"
   }
